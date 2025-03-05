@@ -1,4 +1,4 @@
-# Major Project: IoT-integrated Water Quality Surveillance and Smart Feeding for High-Density Pisciculture Sustainability
+# IoT-integrated Water Quality Surveillance and Smart Feeding for High-Density Pisciculture Sustainability
 
 ## Overview
 This project monitors water quality and automates fish feeding using IoT sensors and an ESP32 microcontroller.
