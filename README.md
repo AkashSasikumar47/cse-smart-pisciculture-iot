@@ -14,7 +14,7 @@ This project monitors water quality and automates fish feeding using IoT sensors
 - **DS18B20 Temperature Sensor**
 - **pH Sensor**
 - **Turbidity Sensor**
-- **Servo Motor**
+- **SG90 Servo Motor**
 
 ## Setup
 1. Clone the repository:
